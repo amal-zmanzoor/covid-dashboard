@@ -12,7 +12,7 @@ An example of one of the pages from the dashboard is shown below:
 
 <img src="Testing.png" width="500" alt="The Testing Aspect of COVID-19 as shown on the dashboard">
 
-The page visualizes the testing aspect of the pandemic.
+This page visualizes the testing aspect of the pandemic.
 
 ## Status 
 While most of the project is complete, future work involves resolving any bug fixes and integrating a database system to store user feedback along with their details to get back to them.  This would also help respond more efficiently to user inquiries and help tailor the dashboard to better meet user needs. 
