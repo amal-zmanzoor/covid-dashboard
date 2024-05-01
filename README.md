@@ -18,15 +18,15 @@ The page visualizes the testing aspect of the pandemic.
 While most of the project is complete, future work involves resolving any bug fixes and integrating a database system to store user feedback along with their details to get back to them.  This would also help respond more efficiently to user inquiries and help tailor the dashboard to better meet user needs. 
 
 ## Installation
-- **Clone the repository**
+- **Clone the repository:**
 git clone https://github.com/amal-zmanzoor/covid-dashboard.git
 
 - **Navigate to the project directory:**
 cd covid-dashbaord
 
-- **Install dependencies**
+- **Install dependencies:**
 npm install
 
-- **Start the application**
+- **Start the application:**
 npm start
 
